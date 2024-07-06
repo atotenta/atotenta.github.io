@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atotenta.github.io/sitemap
+Sitemap: https://atotenta.github.io/app/sitemap
+Sitemap: https://atotenta.github.io/assets/sitemap
+Sitemap: https://atotenta.github.io/css/sitemap
+Sitemap: https://atotenta.github.io/includes/sitemap
+Sitemap: https://atotenta.github.io/item/sitemap
+Sitemap: https://atotenta.github.io/src/sitemap
